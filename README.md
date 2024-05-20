@@ -14,4 +14,4 @@
 - **Interactive Dashboards**: Created dashboards in Tableau to visualize key metrics
 
 ## 📬 Get in touch 
-If you're interested in freelance work or collaboration, feel free to reach out via [email](mailto:najmisapuan02@gmail.com).
+If you're interested in freelance work or collaboration and also internship offer, feel free to reach out via [email](mailto:najmisapuan02@gmail.com).
