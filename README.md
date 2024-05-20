@@ -8,10 +8,10 @@
 - **Other**: 15 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.00%
   
 ## 🛠️ My Projects :
-**Hostel App**: Implemented using Ionic AngularJs. 
-**BarberMate**: Design barber app using Dart Flutter. 
-**SQL Database Management**: Designed and managed databases to handle complex queries. 
-**Interactive Dashboards**: Created dashboards in Tableau to visualize key metrics
+- **Hostel App**: Implemented using Ionic AngularJs.
+- **BarberMate**: Design barber app using Dart Flutter.
+- **SQL Database Management**: Designed and managed databases to handle complex queries.
+- **Interactive Dashboards**: Created dashboards in Tableau to visualize key metrics
 
 ## 📬 Get in touch 
 If you're interested in freelance work or collaboration, feel free to reach out via [email](mailto:najmisapuan02@gmail.com).
