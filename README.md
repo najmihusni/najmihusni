@@ -10,7 +10,7 @@
 ## 🛠️ My Projects :
 - **Hostel App**: Implemented using Ionic AngularJs.
 - **BarberMate**: Design barber app using Dart Flutter.
-- **SQL Database Management**: Designed and managed databases to handle complex queries.
+- **Mini SEO Generator**: Designed and managed generator using Streamlit.
 - **Interactive Dashboards**: Created dashboards in Tableau to visualize key metrics
 
 ## 📬 Get in touch 
