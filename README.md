@@ -9,7 +9,7 @@
   
 ## 🛠️ My Projects :
 - **Hostel App**: Implemented using Ionic AngularJs.
-- **BarberMate**: Design barber app using Dart Flutter.
+- **BarberMate**: Design barber app using Dart Flutter and implement REST API.
 - **Mini SEO Generator**: Designed and managed generator using Streamlit.
 - **Interactive Dashboards**: Created dashboards in Power BI to visualize key metrics
 
